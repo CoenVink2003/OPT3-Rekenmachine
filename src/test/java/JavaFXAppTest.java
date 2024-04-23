@@ -1,3 +1,4 @@
+import javafx.scene.control.SplitPane;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -6,4 +7,6 @@ class JavaFXAppTest {
     void aDummyTest() {
         assertEquals(0,0);
     }
+
 }
+
